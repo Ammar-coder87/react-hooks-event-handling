@@ -4,7 +4,7 @@ import MultiButton from "./MultiButton";
 import ChangeItUp from "./ChangeItUp";
 import Login from "./Login";
 
-function App() {
+export default function App() {
   return (
     <div>
       <h3>onClick</h3>
@@ -25,4 +25,4 @@ function App() {
   );
 }
 
-export default App;
+ 
